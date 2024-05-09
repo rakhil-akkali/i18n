@@ -1,1 +1,1 @@
-This is a test file for Automation with Git with TE for i18n and german
+This is a test file

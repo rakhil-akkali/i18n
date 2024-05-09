@@ -1,1 +1,0 @@
-Dies ist eine Testdatei für Automatisierung mit Git mit TE für i18n und deutsch
